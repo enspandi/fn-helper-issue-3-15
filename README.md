@@ -1,57 +1,8 @@
-# fn-test-issue
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
 
-## Prerequisites
+Working with 3.12
+![Peek 2020-02-06 15-47](https://user-images.githubusercontent.com/8366237/73947967-9a894c80-48f8-11ea-9aa8-20e8bdae8e8a.gif)
 
-You will need the following things properly installed on your computer.
+Not working with 3.15
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
-
-## Installation
-
-* `git clone <repository-url>` this repository
-* `cd fn-test-issue`
-* `npm install`
-
-## Running / Development
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint:hbs`
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+![Peek 2020-02-06 15-47-2](https://user-images.githubusercontent.com/8366237/73947830-6c0b7180-48f8-11ea-863c-97f79df31e10.gif)
